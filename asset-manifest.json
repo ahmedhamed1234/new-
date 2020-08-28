@@ -1,0 +1,39 @@
+{
+  "files": {
+    "main.css": "/new-/static/css/main.0725e599.chunk.css",
+    "main.js": "/new-/static/js/main.465d3419.chunk.js",
+    "main.js.map": "/new-/static/js/main.465d3419.chunk.js.map",
+    "runtime-main.js": "/new-/static/js/runtime-main.5d65d2d0.js",
+    "runtime-main.js.map": "/new-/static/js/runtime-main.5d65d2d0.js.map",
+    "static/css/2.9f2ac16c.chunk.css": "/new-/static/css/2.9f2ac16c.chunk.css",
+    "static/js/2.fb77b208.chunk.js": "/new-/static/js/2.fb77b208.chunk.js",
+    "static/js/2.fb77b208.chunk.js.map": "/new-/static/js/2.fb77b208.chunk.js.map",
+    "index.html": "/new-/index.html",
+    "precache-manifest.17794695c9eba1e40dadf791a9548f10.js": "/new-/precache-manifest.17794695c9eba1e40dadf791a9548f10.js",
+    "service-worker.js": "/new-/service-worker.js",
+    "static/css/2.9f2ac16c.chunk.css.map": "/new-/static/css/2.9f2ac16c.chunk.css.map",
+    "static/css/main.0725e599.chunk.css.map": "/new-/static/css/main.0725e599.chunk.css.map",
+    "static/js/2.fb77b208.chunk.js.LICENSE.txt": "/new-/static/js/2.fb77b208.chunk.js.LICENSE.txt",
+    "static/media/Cosmetics.png": "/new-/static/media/Cosmetics.24b63778.png",
+    "static/media/arrow-right.svg": "/new-/static/media/arrow-right.768dd837.svg",
+    "static/media/bott1.png": "/new-/static/media/bott1.7793f54f.png",
+    "static/media/bott2.png": "/new-/static/media/bott2.53ae2667.png",
+    "static/media/cosmetic-bottle.png": "/new-/static/media/cosmetic-bottle.b3399c6b.png",
+    "static/media/cosmetic-cream.png": "/new-/static/media/cosmetic-cream.e0444a4b.png",
+    "static/media/cosmetics-bottles.png": "/new-/static/media/cosmetics-bottles.b3ce2b85.png",
+    "static/media/cosmetics-jar.png": "/new-/static/media/cosmetics-jar.2fc63df5.png",
+    "static/media/cosmetics-lady.png": "/new-/static/media/cosmetics-lady.4ab3b82d.png",
+    "static/media/cosmetics-tools.png": "/new-/static/media/cosmetics-tools.6362df8b.png",
+    "static/media/cosmetics-two-bottles.png": "/new-/static/media/cosmetics-two-bottles.424efaa7.png",
+    "static/media/cosmetics-yellow-jar.png": "/new-/static/media/cosmetics-yellow-jar.1ee40996.png",
+    "static/media/slick-theme.css": "/new-/static/media/slick.f97e3bbf.svg",
+    "static/media/user.svg": "/new-/static/media/user.b45062a9.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5d65d2d0.js",
+    "static/css/2.9f2ac16c.chunk.css",
+    "static/js/2.fb77b208.chunk.js",
+    "static/css/main.0725e599.chunk.css",
+    "static/js/main.465d3419.chunk.js"
+  ]
+}
