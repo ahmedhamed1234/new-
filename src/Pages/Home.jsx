@@ -9,10 +9,10 @@ function Home() {
     return (
         < >
             <Header/>
-            <Section/>
+            {/* <Section/>
             <Forms/>
             <SectionTow/>
-            <SectionThree/>
+            <SectionThree/> */}
      
         </ >
     )

@@ -9,10 +9,10 @@ function Header() {
         fade: true,
         autoplay: true,
         autoplaySpeed: 3000,
-        dotsClass: "sliderOnedot",
+        dotsClass: 'bg-blue-200 absolute inset-y-1/2 ',
     };
     return (
-        <header className="container mx-auto relative flex-wrap">
+        <header className="container mx-auto relative flex-wrap ">
 
             <Slider {...settings}  >
 
@@ -80,7 +80,7 @@ function Header() {
                 </div>
             </Slider>
 
-            <div className="sliderOnedot"></div>
+            {/* <div className="sliderOnedot"></div> */}
         </header>
     )
 }

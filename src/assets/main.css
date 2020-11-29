@@ -13733,6 +13733,13 @@ video {
   left: 0;
 }
 
+.inset-1\/2 {
+  top: 50%;
+  right: 50%;
+  bottom: 50%;
+  left: 50%;
+}
+
 .inset-auto {
   top: auto;
   right: auto;
@@ -13748,6 +13755,16 @@ video {
 .inset-x-0 {
   right: 0;
   left: 0;
+}
+
+.inset-y-1\/2 {
+  top: 50%;
+  bottom: 50%;
+}
+
+.inset-x-1\/2 {
+  right: 50%;
+  left: 50%;
 }
 
 .inset-y-auto {
@@ -13774,6 +13791,22 @@ video {
 
 .left-0 {
   left: 0;
+}
+
+.top-1\/2 {
+  top: 50%;
+}
+
+.right-1\/2 {
+  right: 50%;
+}
+
+.bottom-1\/2 {
+  bottom: 50%;
+}
+
+.left-1\/2 {
+  left: 50%;
 }
 
 .top-auto {
@@ -18863,7 +18896,7 @@ video {
 
 .sliderOnedot {
   position: absolute;
-  top: 50%;
+  top: 30%;
   right:-30px;
 }
 
@@ -32237,6 +32270,13 @@ body {
     left: 0;
   }
 
+  .sm\:inset-1\/2 {
+    top: 50%;
+    right: 50%;
+    bottom: 50%;
+    left: 50%;
+  }
+
   .sm\:inset-auto {
     top: auto;
     right: auto;
@@ -32252,6 +32292,16 @@ body {
   .sm\:inset-x-0 {
     right: 0;
     left: 0;
+  }
+
+  .sm\:inset-y-1\/2 {
+    top: 50%;
+    bottom: 50%;
+  }
+
+  .sm\:inset-x-1\/2 {
+    right: 50%;
+    left: 50%;
   }
 
   .sm\:inset-y-auto {
@@ -32278,6 +32328,22 @@ body {
 
   .sm\:left-0 {
     left: 0;
+  }
+
+  .sm\:top-1\/2 {
+    top: 50%;
+  }
+
+  .sm\:right-1\/2 {
+    right: 50%;
+  }
+
+  .sm\:bottom-1\/2 {
+    bottom: 50%;
+  }
+
+  .sm\:left-1\/2 {
+    left: 50%;
   }
 
   .sm\:top-auto {
@@ -50488,6 +50554,13 @@ body {
     left: 0;
   }
 
+  .md\:inset-1\/2 {
+    top: 50%;
+    right: 50%;
+    bottom: 50%;
+    left: 50%;
+  }
+
   .md\:inset-auto {
     top: auto;
     right: auto;
@@ -50503,6 +50576,16 @@ body {
   .md\:inset-x-0 {
     right: 0;
     left: 0;
+  }
+
+  .md\:inset-y-1\/2 {
+    top: 50%;
+    bottom: 50%;
+  }
+
+  .md\:inset-x-1\/2 {
+    right: 50%;
+    left: 50%;
   }
 
   .md\:inset-y-auto {
@@ -50529,6 +50612,22 @@ body {
 
   .md\:left-0 {
     left: 0;
+  }
+
+  .md\:top-1\/2 {
+    top: 50%;
+  }
+
+  .md\:right-1\/2 {
+    right: 50%;
+  }
+
+  .md\:bottom-1\/2 {
+    bottom: 50%;
+  }
+
+  .md\:left-1\/2 {
+    left: 50%;
   }
 
   .md\:top-auto {
@@ -68739,6 +68838,13 @@ body {
     left: 0;
   }
 
+  .lg\:inset-1\/2 {
+    top: 50%;
+    right: 50%;
+    bottom: 50%;
+    left: 50%;
+  }
+
   .lg\:inset-auto {
     top: auto;
     right: auto;
@@ -68754,6 +68860,16 @@ body {
   .lg\:inset-x-0 {
     right: 0;
     left: 0;
+  }
+
+  .lg\:inset-y-1\/2 {
+    top: 50%;
+    bottom: 50%;
+  }
+
+  .lg\:inset-x-1\/2 {
+    right: 50%;
+    left: 50%;
   }
 
   .lg\:inset-y-auto {
@@ -68780,6 +68896,22 @@ body {
 
   .lg\:left-0 {
     left: 0;
+  }
+
+  .lg\:top-1\/2 {
+    top: 50%;
+  }
+
+  .lg\:right-1\/2 {
+    right: 50%;
+  }
+
+  .lg\:bottom-1\/2 {
+    bottom: 50%;
+  }
+
+  .lg\:left-1\/2 {
+    left: 50%;
   }
 
   .lg\:top-auto {
@@ -86990,6 +87122,13 @@ body {
     left: 0;
   }
 
+  .xl\:inset-1\/2 {
+    top: 50%;
+    right: 50%;
+    bottom: 50%;
+    left: 50%;
+  }
+
   .xl\:inset-auto {
     top: auto;
     right: auto;
@@ -87005,6 +87144,16 @@ body {
   .xl\:inset-x-0 {
     right: 0;
     left: 0;
+  }
+
+  .xl\:inset-y-1\/2 {
+    top: 50%;
+    bottom: 50%;
+  }
+
+  .xl\:inset-x-1\/2 {
+    right: 50%;
+    left: 50%;
   }
 
   .xl\:inset-y-auto {
@@ -87031,6 +87180,22 @@ body {
 
   .xl\:left-0 {
     left: 0;
+  }
+
+  .xl\:top-1\/2 {
+    top: 50%;
+  }
+
+  .xl\:right-1\/2 {
+    right: 50%;
+  }
+
+  .xl\:bottom-1\/2 {
+    bottom: 50%;
+  }
+
+  .xl\:left-1\/2 {
+    left: 50%;
   }
 
   .xl\:top-auto {
@@ -105241,6 +105406,13 @@ body {
     left: 0;
   }
 
+  .xll\:inset-1\/2 {
+    top: 50%;
+    right: 50%;
+    bottom: 50%;
+    left: 50%;
+  }
+
   .xll\:inset-auto {
     top: auto;
     right: auto;
@@ -105256,6 +105428,16 @@ body {
   .xll\:inset-x-0 {
     right: 0;
     left: 0;
+  }
+
+  .xll\:inset-y-1\/2 {
+    top: 50%;
+    bottom: 50%;
+  }
+
+  .xll\:inset-x-1\/2 {
+    right: 50%;
+    left: 50%;
   }
 
   .xll\:inset-y-auto {
@@ -105282,6 +105464,22 @@ body {
 
   .xll\:left-0 {
     left: 0;
+  }
+
+  .xll\:top-1\/2 {
+    top: 50%;
+  }
+
+  .xll\:right-1\/2 {
+    right: 50%;
+  }
+
+  .xll\:bottom-1\/2 {
+    bottom: 50%;
+  }
+
+  .xll\:left-1\/2 {
+    left: 50%;
   }
 
   .xll\:top-auto {

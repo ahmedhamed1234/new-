@@ -296,7 +296,9 @@ module.exports = {
     }),
     inset: {
       '0': '0',
+      '1/2': '50%',
       auto: 'auto',
+
     },
     letterSpacing: {
       tighter: '-0.05em',

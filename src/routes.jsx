@@ -9,14 +9,14 @@ import Footer from './componets/Footer'
 const Routes = () => {
   return (
     <BrowserRouter>
-      <Navbar />
+      {/* <Navbar /> */}
       <Home/>
       <Switch>
         {/* <Route exact path='/' component={Home} />
         <Route exact path='/blog' component={BlogMain} /> */}
 
       </Switch>
-      <Footer/>
+      {/* <Footer/> */}
     </BrowserRouter>
   );
 };
